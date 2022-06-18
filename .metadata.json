@@ -1,0 +1,10 @@
+[
+  {
+    "package": "manymodelr",
+    "oncran": true
+  },
+  {
+    "package": "mde",
+    "oncran": true
+  }
+]
